@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5c3&height=200&section=header&text=Yathish%20Poojary&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=NLP%20%7C%20Machine%20Translation%20%7C%20Deep%20Learning&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5c3&height=200&section=header&text=Yathish%20Poojary&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=NLP%20%7C%20Machine%20Learning%20%7C%20Machine%20Translation%20%7C%20Deep%20Learning&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5C3&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%F0%9F%92%BB;NLP+%26+Machine+Translation+Expert+%F0%9F%A7%A0;Indian+Language+AI+Researcher+%F0%9F%8C%90;Transformer+%26+Deep+Learning+Builder+%F0%9F%9A%80" alt="Typing SVG"/>
 
