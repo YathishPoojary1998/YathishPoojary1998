@@ -32,6 +32,21 @@
 
 ---
 
+### 💼 Experience
+
+**Senior Software Engineer** · Manipal Institute of Technology, Udupi
+📅 September 2022 – Present
+
+| Project | Impact |
+|---|---|
+| 🌐 **Multilingual MT Systems** | Built Kannada ↔ Hindi, Tamil, Tulu, English translation pipelines using IndicTrans, NLLB & Bhashaverse |
+| 🔤 **POS & Chunk Tagging** | Improved POS accuracy **78% → 94.68%** and Chunk tagging **76% → 95.66%** using IndicBERT & XLM-RoBERTa |
+| 🔬 **Sandhi Splitter** | Achieved **100% accuracy** in Sandhi identification — patent filed under Manipal Academy of Higher Education |
+| 🏛️ **MeitY Initiative** | Contributed to government-backed Indian Language MT systems for national language technology programs |
+| 👨‍🏫 **Mentorship** | Mentored junior engineers on ML model development, deployment practices & research workflows |
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
