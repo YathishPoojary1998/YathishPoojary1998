@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5c3&height=200&section=header&text=Yathish%20Poojary&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=NLP%20%7C%20Machine%20Learning%20%7C%20Machine%20Translation%20%7C%20Deep%20Learning&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5C3&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%F0%9F%92%BB;NLP+%26+Machine+Translation+Expert+%F0%9F%A7%A0;Indian+Language+AI+Researcher+%F0%9F%8C%90;Transformer+%26+Deep+Learning+Builder+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5C3&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%F0%9F%92%BB;NLP+%26+Machine+Learning+Expert+%F0%9F%A7%A0;Machine+Translation+Researcher+%F0%9F%8C%90;Deep+Learning+%26+Transformer+Builder+%F0%9F%9A%80;Indian+Language+AI+Specialist+%F0%9F%93%9D" alt="Typing SVG"/>
 
 <br/>
 
@@ -18,16 +18,17 @@
 
 ---
 
-### 🧠 What I Work On
-```python
-yathish = {
-    "role"        : "Senior Software Engineer",
-    "focus"       : ["Machine Translation", "NLP", "Deep Learning"],
-    "languages"   : ["Kannada", "Hindi", "Tamil", "Tulu", "English"],
-    "tools"       : ["PyTorch", "HuggingFace", "Flask", "GPU Cloud"],
-    "achievement" : "1 Patent Filed + 11 Publications"
-}
-```
+### 🧠 About Me
+
+> 🎯 I build **AI-powered language systems** that bridge communication gaps across Indian languages using cutting-edge transformer models and deep learning techniques.
+
+- 🌐 Developed **production-grade Machine Translation** systems for Kannada ↔ Hindi, Tamil, Tulu & English
+- 🔤 Built **NLP pipelines** for POS Tagging, Chunk Tagging, Sandhi Splitting & Named Entity Recognition
+- 🤖 Fine-tuned **transformer models** — IndicBERT, XLM-RoBERTa, mT5, NLLB, IndicTrans, Bhashaverse
+- 🚀 Deployed **GPU-accelerated models** via Flask REST APIs on cloud infrastructure
+- 🏛️ Contributed to **MeitY government-backed** Indian Language MT initiatives
+- 📄 Published **11+ research papers** at international conferences & filed **1 patent**
+- 👨‍💻 Currently exploring **multilingual AI** for low-resource Indian languages 🇮🇳
 
 ---
 
