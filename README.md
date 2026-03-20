@@ -90,7 +90,7 @@
 | 🏛️ | **MeitY Government Project** — Indian Language MT Systems |
 | 🌐 | **5+ Language Pairs** — Kannada, Hindi, Tamil, Tulu, English |
 | ⚡ | **95.66% Accuracy** — Chunk Tagging for Kannada |
-
+| 🎯 | **94.68% Accuracy** — POS Tagging for Kannada |
 </div>
 
 ---
