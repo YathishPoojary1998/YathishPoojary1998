@@ -81,13 +81,17 @@
 
 ### 🏆 Highlights
 
+<div align="center">
+
 | 🥇 | Achievement |
-|---|---|
+|:---:|---|
 | 📄 | **11+ Research Papers** presented at international conferences |
 | 🔬 | **Patent Filed** — Automated Sandhi Identification & Splitting (No. 202341057920) |
 | 🏛️ | **MeitY Government Project** — Indian Language MT Systems |
 | 🌐 | **5+ Language Pairs** — Kannada, Hindi, Tamil, Tulu, English |
 | ⚡ | **95.66% Accuracy** — Chunk Tagging for Kannada |
+
+</div>
 
 ---
 
@@ -100,6 +104,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5c3&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5c3&height=100&section=footer" width="100%"/>
 
 </div>
