@@ -1,4 +1,6 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5c3&height=230&section=header&text=Yathish%20Poojary&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer&descAlignY=52&descSize=28&descColor=ffffff"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=35&text=NLP%20%7C%20Machine%20Learning%20%7C%20Machine%20Translation%20%7C%20Deep%20Learning&fontSize=14&fontColor=00e5c3&fontAlignY=70"/><div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5c3&height=180&section=header&text=Yathish%20Poojary&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0d0f&height=60&text=Senior%20Software%20Engineer&fontSize=22&fontColor=00e5c3&animation=fadeIn&fontAlignY=65"/>
