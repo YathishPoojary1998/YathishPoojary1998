@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yathish-poojary-b254341a8)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yathish-poojary-b254341a8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00e5c3?style=for-the-badge&logo=github&logoColor=black)](https://YathishPoojary1998.github.io)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yathishmajur.1998@gmail.com)
 
