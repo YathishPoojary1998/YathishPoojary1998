@@ -69,8 +69,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YathishPoojary1998&theme=github_dark" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YathishPoojary1998&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YathishPoojary1998&theme=github_dark" width="32%"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YathishPoojary1998&theme=github_dark&utcOffset=5" width="32%"/>
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YathishPoojary1998&theme=github_dark" width="98%"/>
