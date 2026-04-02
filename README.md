@@ -65,22 +65,15 @@
 ---
 ### 📊 GitHub Stats
 
-
 <div align="center">
 
-<!-- Stats Card via github-stats-level-up -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YathishPoojary1998&theme=github_dark" width="32%"/>
-
-<!-- Top Languages -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YathishPoojary1998&theme=github_dark" width="32%"/>
-
-<!-- Productive Time -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YathishPoojary1998&theme=github_dark&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YathishPoojary1998&theme=github_dark" width="32%"/>
 
 <br/><br/>
 
-<!-- Streak Stats - herokuapp alternative -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YathishPoojary1998&theme=dark&hide_border=true&background=0b0d0f&ring=00e5c3&fire=00e5c3&currStreakLabel=00e5c3"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YathishPoojary1998&theme=github_dark" width="98%"/>
 
 </div>
 
