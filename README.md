@@ -66,8 +66,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YathishPoojary1998&show_icons=true&theme=dark&hide_border=true&bg_color=0b0d0f&title_color=00e5c3&icon_color=00e5c3&text_color=e8eaed" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YathishPoojary1998&layout=compact&theme=dark&hide_border=true&bg_color=0b0d0f&title_color=00e5c3&text_color=e8eaed" width="40%"/>
+ <!-- Try adding &cache_seconds=1800 to bust cache -->
+<img src="https://github-readme-stats.vercel.app/api?username=YathishPoojary1998&show_icons=true&theme=dark&hide_border=true&bg_color=0b0d0f&title_color=00e5c3&icon_color=00e5c3&text_color=e8eaed&cache_seconds=1800" width="48%"/>
+  <!-- Alternative streak stats provider -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YathishPoojary1998&theme=dark&hide_border=true&background=0b0d0f&ring=00e5c3&fire=00e5c3&currStreakLabel=00e5c3"/>
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=YathishPoojary1998&theme=dark&hide_border=true&background=0b0d0f&ring=00e5c3&fire=00e5c3&currStreakLabel=00e5c3"/>
 </div>
