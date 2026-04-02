@@ -72,8 +72,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YathishPoojary1998&theme=github_dark&utcOffset=5" width="32%"/>
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YathishPoojary1998&theme=github_dark" width="98%"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YathishPoojary1998&theme=dark&hide_border=true&background=0b0d0f&ring=00e5c3&fire=00e5c3&currStreakLabel=00e5c3"/>
 </div>
 
 ---
