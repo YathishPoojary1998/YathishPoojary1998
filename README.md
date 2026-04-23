@@ -6,7 +6,7 @@
 
 <br/>
 
-📍 Udupi, Karnataka, India &nbsp;|&nbsp; 🏢 Manipal Institute of Technology &nbsp;|&nbsp; 🔬 3.6+ Years Experience
+📍 Udupi, Karnataka, India &nbsp;|&nbsp; 🏢 Manipal Institute of Technology &nbsp;|&nbsp; 🔬 3.7+ Years Experience
 
 <br/><br/>
 
